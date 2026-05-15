@@ -13,6 +13,7 @@ dependencies = [
     "langchain-groq>=1.1.2",
     "langchain-openai>=1.2.1",
     "langgraph>=1.2.0",
+    "langgraph-cli[inmem,inmen]>=0.4.26",
     "python-dotenv>=1.2.2",
     "wikipedia>=1.4.0",
 ]
