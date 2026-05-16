@@ -12,3 +12,5 @@ arxiv
 wikipedia
 
 langgraph-cli[inmem]
+
+faiss-cpu
