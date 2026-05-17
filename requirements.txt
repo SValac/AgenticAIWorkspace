@@ -16,3 +16,5 @@ langgraph-cli[inmem]
 faiss-cpu
 
 pymupdf
+
+langsmith
